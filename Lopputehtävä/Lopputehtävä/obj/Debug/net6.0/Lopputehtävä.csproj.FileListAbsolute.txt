@@ -1,0 +1,14 @@
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\bin\Debug\net6.0\Lopputehtävä.exe
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\bin\Debug\net6.0\Lopputehtävä.deps.json
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\bin\Debug\net6.0\Lopputehtävä.runtimeconfig.json
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\bin\Debug\net6.0\Lopputehtävä.dll
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\bin\Debug\net6.0\Lopputehtävä.pdb
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.AssemblyInfoInputs.cache
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.AssemblyInfo.cs
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.csproj.CoreCompileInputs.cache
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.dll
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\refint\Lopputehtävä.dll
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.pdb
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\Lopputehtävä.genruntimeconfig.cache
+C:\Users\phamj\Documents\Peliprojektit\Lopputehtävä\Lopputehtävä\obj\Debug\net6.0\ref\Lopputehtävä.dll
